@@ -1,0 +1,1 @@
+# projeto-clojure-paradigmas2025-2
